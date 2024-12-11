@@ -1,9 +1,9 @@
 
-# Ray Gao
+# Ray Gao's Portfolio
 
 I am a csuf student majoring in computer science, and planning on go into dentistry.
 
-## Favortie CPSC 120 L
+## Favortie CPSC 120 L Labs
 
 Lab 2 part-1
 This was my favorite lab because it was our first time actually writing and running code. We learned about string types and how it’s being used with std::. Once the lab was finished, it was interesting to see the code run, because I got to test it with the words of my choice.
